@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_namefr">Mon Application</string>
+    <string name="textfr">Bonjour tout le monde !</string>
+    <string name="button_textfr">Clique</string>
+    <string name="menu1fr">Commencer</string>
+    <string name="quitfr">Quitter</string>
+    <string name="q1fr">Combien de fois Rafael Nadal a-t-il remporté le Roland Garros?></string>
+    <string name="mr">Mauvaise réponse</string>
+    <string name="toastfr">Bien joué</string>
+    <string name="next">Suivant</string>
+    <string name="q2fr">Qui est le meilleur joueur de tennis du monde</string>
+</resources>
